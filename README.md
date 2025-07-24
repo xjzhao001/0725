@@ -1,7 +1,3 @@
-Path-Neighbor enhanced GNN (PN-GNN), a method to enhance the logical expressive power of GNN by aggregating node-neighbor embeddings on the reasoning path.
-# PN-GNN #
-This code is re-implemented from [NBFNet]
-Install the dependencies with conda with the following commands.
 
 ```bash
 conda create -n pn-gnn python=3.10
